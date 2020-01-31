@@ -2,6 +2,7 @@ package com.sj.branch;
 
 public class sub1_Branch_Add {
 	public static void main(String[] args) {
-		System.out.println("sub1 ºê·±Ä¡¸¦ ÅëÇÑ Ä¿¹Ô!!");
+		System.out.println("sub1 ï¿½ê·±Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ä¿ï¿½ï¿½!!");
+		System.out.println("ë„ˆë„ í•œê¸€í…ŒìŠ¤íŠ¸ì•¼!");
 	}
 }
