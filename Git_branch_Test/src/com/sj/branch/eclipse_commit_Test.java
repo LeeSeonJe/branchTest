@@ -1,7 +1,8 @@
 package com.sj.branch;
 
 public class eclipse_commit_Test {
-public static void main(String[] args) {
-	System.out.println("ÀÌ°ÍÀº ¸»ÀÌ¾ß!! Ä¿¹ÔÀÌ¾ß ::::");
-}
+	public static void main(String[] args) {
+		System.out.println("ï¿½Ì°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¾ï¿½!! Ä¿ï¿½ï¿½ï¿½Ì¾ï¿½ ::::");
+		
+	}
 }
